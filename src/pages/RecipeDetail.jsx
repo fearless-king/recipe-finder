@@ -87,7 +87,7 @@ function RecipeDetail() {
         <img
           src={recipe.image}
           alt={recipe.name}
-          className="w-full md:w-1/2 h-80 md:h-auto md:max-h-[104] object-cover rounded-2xl border border-border"
+          className="w-full md:w-1/2 h-80 md:h-auto md:max-h-[26rem] object-cover rounded-2xl border border-border"
         />
         <div className="md:w-1/2 flex flex-col justify-center">
           <h1 className="font-display text-3xl sm:text-4xl font-bold tracking-tight mb-2">
